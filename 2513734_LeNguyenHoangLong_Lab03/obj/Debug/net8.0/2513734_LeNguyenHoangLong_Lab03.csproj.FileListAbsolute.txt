@@ -1,0 +1,14 @@
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab03.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab03.AssemblyInfoInputs.cache
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab03.AssemblyInfo.cs
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab03.csproj.CoreCompileInputs.cache
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\bin\Debug\net8.0\2513734_LeNguyenHoangLong_Lab03.exe
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\bin\Debug\net8.0\2513734_LeNguyenHoangLong_Lab03.deps.json
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\bin\Debug\net8.0\2513734_LeNguyenHoangLong_Lab03.runtimeconfig.json
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\bin\Debug\net8.0\2513734_LeNguyenHoangLong_Lab03.dll
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\bin\Debug\net8.0\2513734_LeNguyenHoangLong_Lab03.pdb
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab03.dll
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\obj\Debug\net8.0\refint\2513734_LeNguyenHoangLong_Lab03.dll
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab03.pdb
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab03.genruntimeconfig.cache
+D:\HocTap\NamNhat\HK2\NLLTHDT\2513734_LeNguyenHoangLong_Lab03\2513734_LeNguyenHoangLong_Lab03\obj\Debug\net8.0\ref\2513734_LeNguyenHoangLong_Lab03.dll
